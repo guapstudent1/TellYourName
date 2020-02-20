@@ -10,9 +10,13 @@ build.bat
 name
 
 mklink alina.exe name.exe
+
 mklink boris.exe name.exe
+
 mklink costya.exe name.exe
 
 alina
+
 boris
+
 costya
